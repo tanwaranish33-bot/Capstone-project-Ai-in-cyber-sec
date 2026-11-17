@@ -1,0 +1,13 @@
+scenario_id,message,category
+S1,"Hi team, the meeting is scheduled for 10 AM. Please review the shared agenda.",Safe
+S2,URGENT: verify your account immediately and click the link to avoid suspension.,Phishing
+S3,Your account has repeated failed sign-in attempts from an unknown device.,Safe
+S4,The scheduled backup completed and the report is available in the internal portal.,Safe
+S5,Your files are encrypted. Pay the ransom to restore access.,Ransomware
+S6,Download this attachment and enable macros to view the invoice.,Malware
+S7,Please confirm the delivery time for tomorrow.,Safe
+S8,Security notice: reset your password using the official company website.,Safe
+S9,Click here to claim your prize and provide your password now.,Phishing
+S10,The endpoint detected a malicious payload in a downloaded file.,Malware
+S11,Quarterly report is ready for the finance review.,Safe
+S12,All documents are encrypted and payment is demanded within 24 hours.,Ransomware

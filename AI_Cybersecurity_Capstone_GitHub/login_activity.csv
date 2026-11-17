@@ -1,0 +1,13 @@
+scenario_id,account_id,ip_address,email,failed_logins,login_hour,new_device,download_mb,label
+S1,ACC-2001,192.168.1.10,user1@example.test,0,10,0,35,Normal
+S2,ACC-2002,10.1.2.30,user2@example.test,1,11,0,50,Normal
+S3,ACC-2003,172.16.0.18,user3@example.test,8,2,1,120,Suspicious
+S4,ACC-2004,192.168.1.44,user4@example.test,0,14,0,620,Suspicious
+S5,ACC-2005,10.2.3.40,user5@example.test,2,9,0,80,Normal
+S6,ACC-2006,192.168.2.55,user6@example.test,6,23,1,700,Suspicious
+S7,ACC-2007,10.4.5.60,user7@example.test,0,12,0,25,Normal
+S8,ACC-2008,172.20.1.70,user8@example.test,3,8,1,90,Normal
+S9,ACC-2009,192.168.3.80,user9@example.test,5,1,1,300,Suspicious
+S10,ACC-2010,10.5.6.90,user10@example.test,4,22,1,550,Suspicious
+S11,ACC-2011,192.168.4.11,user11@example.test,1,15,0,60,Normal
+S12,ACC-2012,172.21.2.22,user12@example.test,7,3,1,680,Suspicious
